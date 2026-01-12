@@ -59,7 +59,7 @@ https://flight-booking-simulator-3.onrender.com/
 
 
 ## Deploy frontend on Vercel
-Link: https://flight-booking-simulator-rawy.vercel.app/
+Link: https:[//flight-booking-simulator-rawy.vercel.app/](https://frontend-lemon-zeta-7arc6yr6j7.vercel.app/)
 
 1. Go to https://vercel.com/new and select your GitHub repository `PreetiYadav99/Flight-Booking-Simulator`.
 2. In project settings set:
